@@ -32,6 +32,8 @@ Stretch goal: can you write and save a [markdown document ](https://www.markdown
 
 People in tech work with logic, so how do people improve their logical reasoning? Happily, with games! Practice your developer thinking by playing our brain games.
 
+
+Follow the [Brain Games link here.](https://fundamentals.codeyourfuture.io/other-resources/brain-games)
 TODO: Should there be some links here or something?
 
 ### Prep 4: HTML/CSS crash course
